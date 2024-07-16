@@ -1,0 +1,14 @@
+# js
+node_modules/
+dist/
+yarn-error.log
+
+
+# macOS
+.DS_Store
+
+# Dotenv file
+.env
+
+# testing
+coverage/
